@@ -21,5 +21,5 @@ Installation:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/bulls-and-cows.git
+git clone https://github.com/PavlinaCp/bulls-and-cows.git
 cd bulls-and-cows
